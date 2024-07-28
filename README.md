@@ -1,8 +1,6 @@
 # Guarding Frog
 
-Guarding Frog is a Rust project that aims to build a tool able to be used in different web servers to protect webapps from different vulnerabilities and attacks.
-
-This project is new so it doesn't have any functionalities yet.
+Project to add new knowledge as I learn more about it. No current functionality other than just see Ferris the Crub.
 
 ## Installationd and usage
 
